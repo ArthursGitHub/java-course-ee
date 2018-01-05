@@ -1,0 +1,94 @@
+lesson 01
+Разговор на тему Reflection, jdbc
+
+lesson 02-1
+Разработка не maven прилажения с сервлетом, jsp
+Разговор на тему jstl, EL, скриптлеты
+Установка wildFly
+запуск сервлета, разбор того, во что превратилась jsp страничка после генерации на ее основе файла сервлета.
+
+lesson 02-2
+Git
+
+lesson 03-1
+Git
+
+lesson 03-2
+Maven
+
+lesson 04-1
+unit тестирование
+
+lesson 04-2
+unit тестирование
+Разбор junit
+Логирование
+Разбор log4j, slf4j-source, slf4j-target
+Spring core
+Разбор IoC-01-Simple-Bean
+
+lesson 05-1
+Spring core, инстанцирование бинов с конструкторами
+Разбор IoC-03-Instantiation
+scope="singleton", scope="prototype"
+Разбор IoC-04-Scope
+Наследование
+Разбор IoC-02-Inheritance
+Отложенное инстанцирование
+Разбор IoC-05-Lazy-Init
+
+lesson 05-2
+Инит и дестрой
+Разбор IoC-06-Init-Destroy
+
+Разбор JDBC
+
+lesson 06-1.mp4
+
+Разбор GS_Spring_17_JUnit
+@Autowired
+Через аннотации
+Разбор GS_Spring_3_AnnotationConfig
+Hibernate
+
+
+lesson 06-2
+Разбор hibernate-criteria, hibernate-crud
+Разбор hibernate-many-to-one
+
+lesson 07-1
+Разбор hibernate-many-to-many
+Наследование в hibernate
+Разбор hibernate-inheritance-joined, hibernate-inheritance-single-table, hibernate-inheritance-table-per-class
+
+lesson 07-2
+Кэширование в Hibernate
+Разбор hibernate-second-level-cache
+
+lesson 08-1
+микс Spring и Hibernate
+Разбор GS_Spring_22_Hibernate
+Spring Integration
+Разбор spring-integration-01, spring-integration-02, spring-integration-03
+
+
+lesson 08-2
+Разбор spring-integration-04
+EJB
+
+lesson 09-1
+EJB
+Разбор stateless-ejb-local-remote
+
+
+lesson 09-2
+Разбор stateful-ejb
+Разбор async-ejb-war
+Разбор bean-transactions-ejb-war, container-transactions-ejb-war, container-transactions-ejb-jpa-war
+
+lesson 10-1
+Веб сервисы
+Jax-ws
+
+lesson 10-2
+JMS
