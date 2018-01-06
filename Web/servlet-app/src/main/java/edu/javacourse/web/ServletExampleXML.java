@@ -27,3 +27,7 @@ public class ServletExampleXML extends HttpServlet {
         }
     }
 }
+
+/*
+http://localhost:8080/servlet-app/servlet-xml?name=Vasya
+*/

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimplePortlet:war exploded">
+    <output-path>$PROJECT_DIR$/Portlet/SimplePortlet/target/SimplePortlet</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimplePortlet" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Portlet/SimplePortlet/target/SimplePortlet/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SimplePortlet/web/Web" />
+    </root>
+  </artifact>
+</component>

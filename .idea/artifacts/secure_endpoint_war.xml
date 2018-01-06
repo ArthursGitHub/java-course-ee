@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="secure-endpoint:war">
+    <output-path>$PROJECT_DIR$/WebSocket/secure-endpoint/target</output-path>
+    <root id="archive" name="secure-endpoint.war">
+      <element id="artifact" artifact-name="secure-endpoint:war exploded" />
+    </root>
+  </artifact>
+</component>

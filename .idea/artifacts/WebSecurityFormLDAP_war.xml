@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebSecurityFormLDAP:war">
+    <output-path>$PROJECT_DIR$/Security/WebSecurityFormLDAP/target</output-path>
+    <root id="archive" name="WebSecurityFormLDAP.war">
+      <element id="artifact" artifact-name="WebSecurityFormLDAP:war exploded" />
+    </root>
+  </artifact>
+</component>

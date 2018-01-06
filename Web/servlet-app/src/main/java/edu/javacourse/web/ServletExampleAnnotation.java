@@ -29,3 +29,7 @@ public class ServletExampleAnnotation extends HttpServlet {
         }
     }
 }
+
+/*
+http://localhost:8080/servlet-app/servlet-annotation?name=Vasya
+*/

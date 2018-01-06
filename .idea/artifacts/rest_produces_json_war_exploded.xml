@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rest-produces-json:war exploded">
+    <output-path>$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json/target/rest-produces-json</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rest-produces-json" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json/target/rest-produces-json/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rest-produces-json/web/Web" />
+    </root>
+  </artifact>
+</component>

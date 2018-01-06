@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="managed-scheduled-executor-service:war">
+    <output-path>$PROJECT_DIR$/Concurrency/managed-scheduled-executor-service/target</output-path>
+    <root id="archive" name="managed-scheduled-executor-service.war">
+      <element id="artifact" artifact-name="managed-scheduled-executor-service:war exploded" />
+    </root>
+  </artifact>
+</component>
