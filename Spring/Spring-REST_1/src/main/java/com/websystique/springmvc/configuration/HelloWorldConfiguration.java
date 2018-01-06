@@ -8,6 +8,4 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @ComponentScan(basePackages = "com.websystique.springmvc")
 public class HelloWorldConfiguration {
-	
-
 }
