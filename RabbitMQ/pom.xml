@@ -19,6 +19,7 @@
         <!--<module>Spring-JMS</module>-->
         <!--<module>Spring-REST</module>-->
         <!--<module>WS</module>-->
+        <module>Sample1</module>
     </modules>
 
 </project>

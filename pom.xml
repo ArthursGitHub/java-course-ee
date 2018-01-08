@@ -11,6 +11,7 @@
 
     <modules>
         <module>ActiveMQ</module>
+	<module>RabbitMQ</module>
         <module>Camel</module>
         <module>Concurrency</module>
         <module>DWR</module>
