@@ -16,6 +16,8 @@
         <module>MVC</module>
         <module>Spring-JMS</module>
         <module>Spring-REST</module>
+        <module>Spring-REST_1</module>
+        <module>Spring-REST_2</module>
         <module>WS</module>
     </modules>
 
