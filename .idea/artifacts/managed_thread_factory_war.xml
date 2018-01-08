@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="managed-thread-factory:war">
-    <output-path>$PROJECT_DIR$/Concurrency/managed-thread-factory/target</output-path>
-    <root id="archive" name="managed-thread-factory.war">
-      <element id="artifact" artifact-name="managed-thread-factory:war exploded" />
-    </root>
-  </artifact>
-</component>

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="context-service:war">
-    <output-path>$PROJECT_DIR$/Concurrency/context-service/target</output-path>
-    <root id="archive" name="context-service.war">
-      <element id="artifact" artifact-name="context-service:war exploded" />
-    </root>
-  </artifact>
-</component>
