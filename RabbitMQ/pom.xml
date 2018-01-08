@@ -12,13 +12,12 @@
     <name>RabbitMQ</name>
 
     <modules>
-        <!--<module>Integration</module>-->
-        <!--<module>IoC</module>-->
-        <!--<module>JDBC</module>-->
-        <!--<module>MVC</module>-->
-        <!--<module>Spring-JMS</module>-->
-        <!--<module>Spring-REST</module>-->
-        <!--<module>WS</module>-->
+        <module>Sample1</module>
+        <module>Sample2</module>
+        <module>Sample3</module>
+        <module>Sample4</module>
+        <module>Sample5</module>
+        <module>Sample6</module>
     </modules>
 
 </project>
