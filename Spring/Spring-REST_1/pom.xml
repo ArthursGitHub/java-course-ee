@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>edu.javacourse.spring</groupId>
-    <artifactId>spring-rest</artifactId>
+    <artifactId>spring-rest_1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
