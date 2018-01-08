@@ -53,4 +53,16 @@ lesson 17-2
 lesson 18-1
 Rest
 
+lesson 18-2
+Spring-rest
+
+lesson 19-1
+Web Security, Base authentication
+
+lesson 19-2
+Form authentication
+Spring Security
+
+lesson 20-1
+JavaScript
 
