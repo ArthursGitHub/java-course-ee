@@ -20,7 +20,7 @@ public class UserController {
         users.add(new User(3L, "User 3", new Date()));
     }
 
-    @RequestMapping(name = "/user1", method = RequestMethod.GET, params = {"id"})
+    @RequestMapping(value = "/user1", method = RequestMethod.GET, params = {"id"})
     public User getUser(@RequestParam(value = "id", required = true) Long id) {
         for (User user: users) {
             if (user.getId().equals(id)) {
@@ -30,14 +30,15 @@ public class UserController {
         return null;
     }
 
-    @RequestMapping(name = "/user2", method = RequestMethod.POST)
-    public void addUser(@RequestBody(required = true) User user) {
-        users.add(user);
-    }
-
-    @RequestMapping(name = "/user3", method = RequestMethod.GET)
+    @RequestMapping(value = "/user3", method = RequestMethod.GET)
     public List<User> getAllUsers() {
         return users;
+    }
+
+
+    @RequestMapping(value = "/user2", method = RequestMethod.POST)
+    public void addUser(@RequestBody(required = true) User user) {
+        users.add(user);
     }
 
 }
