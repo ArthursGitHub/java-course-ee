@@ -66,3 +66,32 @@ Spring Security
 lesson 20-1
 JavaScript
 
+lesson 20-2
+JQuery
+
+========================================================================================================================
+
+
+    Обзор необходимых для понимания курса технологий — Java, JavaBeans, Reflection, Annotation, JDBC, SQL — 3 часа
+    Схема построения Enterprise-приложения и процесс создания программ — 2 часа
+    Servlet, JSP, Filter, HTTPContextListener — 4 часа
+    Средство сборки Maven — 4 часа
+    Системы контроля версий на примере Git — 4 часа
+    Логирование – log4j, slf4j — 3 часа
+    Unit-тестирование, Junit, Mockito — 3 часа
+    JMS – Асинхронный обмен сообщениями, Apache ActiveMQ — 4 часа
+    Spring — Context, Database, Unit Testing — 6 часов
+    Интеграция – Apache Camel, Spring Integration — 4 часа
+    JGroups – Распределенные системы — 2 часа
+    Application Server — что это такое. Архитектура, функции, JNDI — 4 часа
+    JavaEE Security — Аутентификация, ролевая модель, LDAP, https, шифрование — 6 часов
+    Hibernate — Annotation, связи, Caching, Paging, JPA — 4 часа
+    EJB — Session Bean, Message Driven Bean — 6 часов
+    Web Services — SOAP — 4 часа
+    Принципы AJAX, пакет jQuery — 2 часа
+    Web Services — ReST — 4 часа
+    WebSocket – Инициируемые сервером сообщения клиенту — 3 часа
+    JSF — Java Server Faces — 2 часа
+    Spring — Web-MVC — 2 часа
+    Vaadin – UI framework — 4 часа
+
